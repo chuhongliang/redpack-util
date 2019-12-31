@@ -10,6 +10,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": ["红包","redpack","微信红包"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chuhongliang/redpack-util.git"
